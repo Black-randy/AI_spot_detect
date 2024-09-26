@@ -1,0 +1,5 @@
+names:
+  0: car
+path: data/custom-data/
+train: train.txt
+val: val.txt
