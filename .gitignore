@@ -1,0 +1,13 @@
+# Ignore the specific directory
+data/PKLot/
+runs/
+
+# Ignore the specific .rar file
+data/test/images.rar
+
+# Ignore the specific .zip file
+data/archive.zip
+
+# Ignore the specific models
+models/yolov8s.pt
+models/last.pt
