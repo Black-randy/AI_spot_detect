@@ -29,7 +29,7 @@ docopt==0.6.2
 exceptiongroup==1.1.1
 executing==1.2.0
 fastjsonschema==2.17.1
-filelock==3.12.2
+filelock==3.20.1
 fire==0.5.0
 fonttools==4.40.0
 fqdn==1.5.1
