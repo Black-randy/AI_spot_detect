@@ -137,7 +137,7 @@ thop==0.1.1.post2209072238
 threadpoolctl==3.1.0
 tinycss2==1.2.1
 tomli==2.0.1
-torch==2.0.1+cu117
+torch==2.8.0
 torchaudio==2.0.2+cu117
 torchsummary==1.5.1
 torchvision==0.15.2+cu117
