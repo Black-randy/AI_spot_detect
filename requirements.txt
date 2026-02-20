@@ -154,7 +154,7 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.6.1
-Werkzeug==2.3.6
+Werkzeug==3.1.6
 wget==3.2
 yarg==0.1.9
 yolov5==7.0.12
